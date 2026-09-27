@@ -1,6 +1,6 @@
 # Grid-Connected STATCOM System: dq0 Control
 
-![STATCOM System Architecture](Docs/LaTeX_Source/Images/Full_Sys.svg)
+![STATCOM System Architecture](Docs/LaTeX_Source/Images/Full_Sys.svg) 
 
 ## 🚀 Overview
 This repository contains the mathematical modeling, control design, and MATLAB/Simulink simulation of a grid-connected **Static Synchronous Compensator (STATCOM)**. The STATCOM utilizes a Two-Level Voltage Source Converter (VSC) to provide dynamic reactive power compensation for a local inductive load, thereby improving the grid's power factor to unity.
